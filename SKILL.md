@@ -1,6 +1,6 @@
 ---
-name: repo-review
-version: 1.0.0
+name: reap
+version: 2.0.0
 description: >
   Analyze and review any GitHub repository URL the user shares. Produces a
   structured scorecard: repo name + one-line description, 3 UP (genuine
@@ -8,11 +8,11 @@ description: >
   verdict with one-sentence rationale, and an offer to help test, install,
   or practice with the repo for "my first big moment." Use this skill any
   time the user drops a GitHub URL and asks to review, analyze, check out,
-  or evaluate it — or says "new repo," "repo review," or similar.
+  or evaluate it — or says "new repo," "repo review," "reap," or similar.
   Also maps the repo to FLF use cases when relevant.
 ---
 
-# Repo Review Skill
+# Reap — GitHub Repo Review Skill
 
 ## Output Format — always use exactly this structure
 
